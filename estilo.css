@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    margin: 20px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.moxa{
+    display: flex;
+    justify-content:flex-start;
+    padding-left: 10px;
+}
+p{
+   width: 10px;
+   font-size:2rem;
+}
+a{
+    color: black;
+    margin-left: 40px;
+}
+h1 {
+    font-size: 4.5rem;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;   
+    color: black;
+}
+.d-flex {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+.presentacion{
+    padding-top: 100px;
+    margin-left: 300px;
+}
+.design{
+    padding-top: 20px;
+    margin-left: 300px;
+
+
+}
+.asterico{
+    color: rgb(233, 75, 38) ;
+    padding-top: 50px;
+}
+i{
+    color: rgb(233, 75, 38) ;
+    size: 5px;
+}
+h3 {
+    font-size: 1.5rem;
+}
+.recuadro{
+    padding-top: 20px;
+    margin-left: 300px;
+}
